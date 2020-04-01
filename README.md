@@ -10,4 +10,4 @@ Softwares:  Arduino IDE _(for communicating with arduino board to collect the da
 After data acquisition the data is processed and plotted in real time by python and its plotting library _(matplotlib and seaborn)_.
 
 
-![][DHT11/liveDatatempHumidity.jpg]
+![](DHT11/liveDatatempHumidity.jpg)
