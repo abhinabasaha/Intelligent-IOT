@@ -9,3 +9,5 @@ b) MQ135 (Smoke Sensor)\
 Softwares:  Arduino IDE _(for communicating with arduino board to collect the data)_.\
 After data acquisition the data is processed and plotted in real time by python and its plotting library _(matplotlib and seaborn)_.
 
+
+![][DHT11/liveDatatempHumidity.jpg]
