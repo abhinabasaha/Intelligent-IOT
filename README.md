@@ -11,3 +11,4 @@ After data acquisition the data is processed and plotted in real time by python 
 
 
 ![](DHT11/liveDatatempHumidity.jpg)
+![](DHT11/setup.mp4)
